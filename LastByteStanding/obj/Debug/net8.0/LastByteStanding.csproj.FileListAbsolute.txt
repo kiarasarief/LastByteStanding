@@ -1,0 +1,15 @@
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\bin\Debug\net8.0\LastByteStanding.exe
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\bin\Debug\net8.0\LastByteStanding.deps.json
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\bin\Debug\net8.0\LastByteStanding.runtimeconfig.json
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\bin\Debug\net8.0\LastByteStanding.dll
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\bin\Debug\net8.0\LastByteStanding.pdb
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\obj\Debug\net8.0\LastByteStanding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\obj\Debug\net8.0\LastByteStanding.AssemblyInfoInputs.cache
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\obj\Debug\net8.0\LastByteStanding.AssemblyInfo.cs
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\obj\Debug\net8.0\LastByteStanding.csproj.CoreCompileInputs.cache
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\obj\Debug\net8.0\LastByteStanding.sourcelink.json
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\obj\Debug\net8.0\LastByteStanding.dll
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\obj\Debug\net8.0\refint\LastByteStanding.dll
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\obj\Debug\net8.0\LastByteStanding.pdb
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\obj\Debug\net8.0\LastByteStanding.genruntimeconfig.cache
+C:\Wiellona\UI\Kuliah\Sem 3\OOP\Kelas\Finpro\LastByteStanding\LastByteStanding\obj\Debug\net8.0\ref\LastByteStanding.dll
