@@ -1,10 +1,12 @@
-using System;
+﻿using System;
 
-public class Program
+class Program
 {
-    public static void Main(string[] args)
+    static void Main(string[] args)
     {
-        GameManager gameManager = new GameManager();
-        gameManager.StartGame();
+        string jsonPath = "Questions.json";
+        var problemManager = new ProblemManager(jsonPath);
+        var gameManager = new GameManager(problemManager);
+        gameManager.Start();
     }
 }
